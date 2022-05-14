@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Inter';
+  font-weight: normal;
+  src: url(../vendor/fonts/Inter-Regular.woff) format('woff'),
+  url(../vendor/fonts/Inter-Regular.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: bold;
+  /* bold равняется font-weight = 700 */
+  src: url(../vendor/fonts/Inter-Bold.woff) format('woff'),
+  url(../vendor/fonts/Inter-Bold.woff2) format('woff2');
+}
+/* TODO: удалить файлы или добавить средний шрифт*/
+
